@@ -1,0 +1,43 @@
+Alaska
+	Northwest Territory
+	Alberta
+	Ontario
+	Quebec
+	Western United States
+	Eastern United States
+	Central America
+	Greenland
+	Venezuela
+	Peru
+	Argentina
+	Brazil
+	North Africa
+	Egypt
+	East Africa
+	Congo
+	South Africa
+	Madagascar
+	Iceland
+	Great Britain
+	Western Europe
+	Southern Europe
+	Northern Europe
+	Scandinavia
+	Ukraine
+	Middle East
+	Afghanistan
+	Ural
+	Siberia
+	Yakutsk
+	Kamchatka
+	Irkutsk
+	Mongolia
+	Japan
+	China
+	Siam	
+	India
+	Philippines
+	Indonesia
+	Papua New Guinea
+	Eastern Australia
+	Western Australia

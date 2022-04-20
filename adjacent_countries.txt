@@ -1,0 +1,43 @@
+Alaska,Alberta,Northwest Territory,Kamchatka
+    Northwest Territory,Alaska,Alberta,Greenland,Ontario
+    Alberta,Alaska,Northwest Territory,Ontario,Western United States
+    Ontario,Northwest Territory,Greenland,Quebec,Eastern United States,Western United States,Alberta
+    Quebec,Ontario,Greenland,Eastern United States
+    Western United States,Alberta,Ontario,Eastern United States,Central America
+    Eastern United States,Western United States,Ontario,Quebec,Central America
+    Central America,Western United States,Eastern United States, Venezuela
+    Greenland,Northwest Territory,Ontario,Quebec,Iceland
+    Venezuela,Central America,Peru,Brazil
+    Peru,Venezuela,Brazil,Argentina
+    Argentina,Peru,Brazil
+    Brazil,Argentina,Peru,Venezuela,North Africa
+    North Africa,Brazil,Western Europe,Southern Europe,Egypt,East Africa,Congo
+    Egypt,Southern Europe,Middle East,East Africa,North Africa
+    East Africa,Egypt,North Africa,Congo,South Africa,Madagascar,Middle East
+    Congo,North Africa,East Africa,South Africa
+    South Africa,Congo,East Africa,Madagascar
+    Madagascar,East Africa,South Africa
+    Iceland,Greenland,Great Britain,Scandinavia
+    Great Britain,Iceland,Scandinavia,Northern Europe,Western Europe
+    Western Europe,Great Britain,Northern Europe,Southern Europe,North Africa
+    Southern Europe,Western Europe,Northern Europe,Ukraine,Middle East,Egypt,North Africa
+    Northern Europe,Southern Europe,Western Europe,Great Britain,Scandinavia,Ukraine
+    Scandinavia,Northern Europe,Great Britain,Iceland,Ukraine
+    Ukraine,Southern Europe,Northern Europe,Scandinavia,Ural,Afghanistan,Middle East
+    Middle East,East Africa,Egypt,Southern Europe,Ukraine,Afghanistan,India
+    Afghanistan,Ukraine,Ural,China,India,Middle East
+    Ural,Ukraine,Siberia,Afghanistan,China
+    Siberia,Ural,Yakutsk,Irkutsk,Mongolia,China
+    Yakutsk,Siberia,Kamchatka,Irkutsk
+    Kamchatka,Yakutsk,Alaska,Japan,Mongolia,Irkutsk
+    Irkutsk,Siberia,Yakutsk,Kamchatka,Mongolia
+    Mongolia,Siberia,Irkutsk,Kamchatka,Japan,China
+    Japan,Kamchatka,Mongolia
+    China,Afghanistan,Ural,Siberia,Mongolia,Philippines,Siam,India
+    Siam,India,China,Indonesia
+    India,Middle East,Afghanistan,China,Siam
+    Philippines,Indonesia,China
+    Indonesia,Siam,Philippines,Papua New Guinea,Western Australia
+    Papua New Guinea,Indonesia,Eastern Australia,Western Australia
+    Eastern Australia,Western Australia,Papua New Guinea
+    Western Australia,Indonesia,Papua New Guinea,Eastern Australia
