@@ -34,7 +34,7 @@ Alaska
 	Mongolia
 	Japan
 	China
-	Siam	
+	Siam
 	India
 	Philippines
 	Indonesia
