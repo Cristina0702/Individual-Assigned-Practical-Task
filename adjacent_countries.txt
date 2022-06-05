@@ -68,15 +68,13 @@ Mongolia,Siberia,Irkutsk,Kamchatka,Japan,China
 
 Japan,Kamchatka,Mongolia
 
-China,Afghanistan,Ural,Siberia,Mongolia,Philippines,Siam,India
+China,Afghanistan,Ural,Siberia,Mongolia,Siam,India
 
 Siam,India,China,Indonesia
 
 India,Middle East,Afghanistan,China,Siam
 
-Philippines,Indonesia,China
-
-Indonesia,Siam,Philippines,Papua New Guinea,Western Australia
+Indonesia,Siam,Papua New Guinea,Western Australia
 
 Papua New Guinea,Indonesia,Eastern Australia,Western Australia
 
